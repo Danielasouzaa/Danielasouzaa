@@ -1,0 +1,42 @@
+# Bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente Virtual
+venv/
+env/
+*.env
+
+# Configurações de IDE e Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de Log
+*.log
+
+# Sistema de Arquivos
+.DS_Store
+Thumbs.db
+
+# Arquivos Temporários
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Outros Arquivos Temporários
+*.pid
+*.seed
+*.coverage
+*.tox
+*.nox
+*.coverage.*
+*.hypothesis/
+*.pytest_cache/
+*.mypy_cache/
+*.dmypy.json
+*.pylint.d
